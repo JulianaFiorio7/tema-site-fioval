@@ -62,7 +62,5 @@ wp-content/themes/fioval/
 
 \## 🔗 Site
 
-
-
-\[https://fioval.com/](https://fioval.com/)
+https://fioval.com/
 
