@@ -3,7 +3,7 @@
 
 
 Este repositório contém o tema personalizado desenvolvido para o site da empresa \*\*Fioval Acessórios para Móveis LTDA\*\*.
-
+Todo o layout e planejamento do site também foi realizado por mim.
 
 
 \## 💡 Funcionalidades
@@ -42,7 +42,7 @@ Este repositório contém o tema personalizado desenvolvido para o site da empre
 
 \- Bootstrap
 
-\- Plugins:
+\- Principais Plugins:
 
 &nbsp; - Advanced Custom Fields (ACF)
 
